@@ -13,7 +13,7 @@ This Streamlit app uses the Hugging Face transformers library to predict the nex
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/next_word_prediction.git
+    git clone https://github.com/mydemon21/next_word_prediction.git
     cd next_word_prediction
     ```
 
